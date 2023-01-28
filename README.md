@@ -1,3 +1,6 @@
+**The repository is deprecated. It is merged into
+[jerry73204/apriltag-rust](https://github.com/jerry73204/apriltag-rust).**
+
 # apriltag-sys
 
 [![Crates.io](https://img.shields.io/crates/v/apriltag-sys.svg)](https://crates.io/crates/apriltag-sys)
